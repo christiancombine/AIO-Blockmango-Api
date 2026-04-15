@@ -26,6 +26,6 @@ All in one  APIS to choose from for your bmgo shitvival
 
 
 # Download Center
-- REDIS : (justclickme)[https://github.com/harryzawg/bubbablox-v2/raw/refs/heads/2021/redis-server.exe]
+- REDIS : https://github.com/harryzawg/bubbablox-v2/raw/refs/heads/2021/redis-server.exe
 - MYSQL : findable lmao
 and uhh idk

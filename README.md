@@ -7,7 +7,7 @@ All in one  APIS to choose from for your bmgo shitvival
 - sqllite api is just an wacky way of bypassing mysql
 
 
-# THE SECOND WAY: YOU NEED TO USE BOTH APIS AND GAME SERVICE DISPATCHER FOR THIS
+# THE SECOND WAY: YOU NEED TO USE BOTH APIS AND GAME SERVICE DISPATCHER FOR THIS (recommended if you are hosting it for friends)
 - you need
 - node.js
 - golang

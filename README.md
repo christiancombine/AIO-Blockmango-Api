@@ -1,4 +1,6 @@
 # AIO-Blockmango-Api
+DISCORD : https://discord.gg/S9DDPYFV
+
 All in one  APIS to choose from for your bmgo shitvival
 
 - yea ok lmao
@@ -21,4 +23,9 @@ All in one  APIS to choose from for your bmgo shitvival
 - im a texas tiger
 - im a great crusader
 
-DISCORD : https://discord.gg/S9DDPYFV
+
+
+# Download Center
+REDIS : (click me)[https://github.com/harryzawg/bubbablox-v2/raw/refs/heads/2021/redis-server.exe]
+MYSQL : findable lmao
+and uhh idk

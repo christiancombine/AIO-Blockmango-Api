@@ -1,0 +1,18 @@
+{
+    "mariadb": {
+        "host": "localhost",
+        "port": 9683,
+        "user": "root",
+        "password": "eeee",
+        "database": "wealth",
+        "connectionLimit": 10
+    },
+    "redis": {
+        "username": "default",
+        "password": "eeee",
+        "socket": {
+            "host": "127.0.0.1",
+            "port": 6379
+        }
+    }
+}

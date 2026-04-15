@@ -1,0 +1,41 @@
+{
+  "name": "bmf-inner-api",
+  "version": "1.0.0",
+  "description": "Blockman Forge Inner API Server",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "BytePulse",
+  "_moduleAliases": {
+    "@constants": "src/constants",
+    "@common": "src/common",
+    "@config": "src/config",
+    "@models": "src/models",
+    "@user-service": "src/services/user",
+    "@game-service": "src/services/game",
+    "@account-service": "src/services/account",
+    "@friend-service": "src/services/friend",
+    "@mail-service": "src/services/mail",
+    "@decoration-service": "src/services/decoration",
+    "@pay-service": "src/services/pay",
+    "@clan-service": "src/services/clan",
+    "@shop-service": "src/services/shop",
+    "@msg-service": "src/services/msg",
+    "@activity-service": "src/services/activity",
+    "@discord-service": "src/services/discord"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^4.21.2",
+    "mariadb": "^3.2.3",
+    "module-alias": "^2.2.3",
+    "mysql2": "^3.14.3",
+    "redis": "^4.7.1",
+    "redis-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "license": "UNLICENSED"
+}

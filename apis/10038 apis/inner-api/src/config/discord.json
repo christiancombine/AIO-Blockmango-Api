@@ -1,0 +1,11 @@
+{
+    "CLIENT_ID": "1217767872718311424",
+    "CLIENT_SECRET": "QGPWz47RWqKa49AGKdDcKtcrzGhiBTg_",
+
+    "BASE_ENDPOINT": "https://discord.com/api",
+    "CDN_BASE_ENDPOINT": "https://cdn.discordapp.com",
+
+    "TOKEN_REVOKE_URL": "/oauth2/token/revoke",
+
+    "USER_URL": "/users/@me"
+}

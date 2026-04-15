@@ -1,0 +1,20 @@
+{
+    "localPath": "database",
+    "storage": "database/files",
+    "mariadb": {
+        "host": "149.202.146.216",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "database": "bmfdb",
+        "connectionLimit": 30
+    },
+    "redis": {
+        "username": "default",
+        "password": "123456",
+        "socket": {
+            "host": "207.180.204.162",
+            "port": 6379
+        }
+    }
+}

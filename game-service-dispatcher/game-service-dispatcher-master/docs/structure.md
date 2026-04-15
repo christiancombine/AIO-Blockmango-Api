@@ -1,0 +1,4 @@
+- /cmd (main entry point of our project like `main.js` in javascript)
+- /configs (required config files)
+- /internal (handle api requests)
+- /pkg (most used packages)

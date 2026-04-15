@@ -1,0 +1,35 @@
+Account Service:
+ - account [userId, email, password, creationTime, accessToken, loginTime]
+
+Clan Service:
+ - clan_notice [clanId, content]
+ - clan [clanId, name, picUrl, tags, description, experience, level, memberCount, freeVerify, language, creationTime]
+ - clan_donation [userId, clanId, nickName, type, amount, experienceReward, clanGoldReward, donationTime]
+ - clan_member [userId, clanId, role, experience]
+ - clan_message [userId, inviterId, clanId, message, picUrl, nickName, type, status, creationTime]
+ - (TASKS)
+
+Friend Service:
+ - friend [userId, friendId, alias]
+ - friend_request [requestId, userId, friendId, message, picUrl, nickName, sex, vip, status]
+
+Decoration Service:
+ - owned_dressing [userId, data]
+ - equipped_dressing [userId, data]
+
+Mailbox Service:
+ - mailbox [userId, id, title, content, sentDate, type, attachments, extra]
+ - mailbox_record [id, status]
+
+Pay Service:
+ - wealth [userId, diamonds, gold, clanGold]
+ - transaction_record [userId, orderId, currency, qty, inoutType, transactionType, description, status, creationTime]
+
+User Service:
+ - user [userId, nickName, picUrl, sex, birthday, bio]
+ - user_locale [userId, language, country]
+ - vip [userId, vipLevel, vipExpireDate]
+
+Game Service:
+ - game [gameId, gameName, iconUrl, likeCount, shopEnabled, rankEnabled, authorId, creationTime]
+ - (...)

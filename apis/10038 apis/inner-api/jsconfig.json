@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@common/*": ["src/common/*"],
+            "@constants/*": ["src/constants/*"],
+            "@config/*": ["src/config/*.json"],
+            "@models/*": ["src/models/*"],
+            "@responses/*": ["src/responses/*"],
+            "@user-service/*": ["src/services/user/*"],
+            "@game-service/*": ["src/services/game/*"],
+            "@account-service/*": ["src/services/account/*"],
+            "@friend-service/*": ["src/services/friend/*"],
+            "@mail-service/*": ["src/services/mail/*"],
+            "@decoration-service/*": ["src/services/decoration/*"],
+            "@pay-service/*": ["src/services/pay/*"],
+            "@clan-service/*": ["src/services/clan/*"],
+            "@shop-service/*": ["src/services/shop/*"],
+            "@msg-service/*": ["src/services/msg/*"],
+            "@activity-service/*": ["src/services/activity/*"],
+            "@discord-service/*": ["src/services/discord/*"]
+        }
+    }
+}

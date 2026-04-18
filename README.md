@@ -26,6 +26,6 @@ All in one  APIS to choose from for your bmgo shitvival
 
 
 # Download Center
-- REDIS : https://github.com/harryzawg/bubbablox-v2/raw/refs/heads/2021/redis-server.exe
-- MYSQL : findable lmao
+- REDIS : https://github.com/tporadowski/redis/releases
+- MYSQL : https://mariadb.org/download/?t=mariadb&p=mariadb&r=12.2.2 yea yea its the same bro
 and uhh idk
